@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liuxiny9
+- 👋 Hi, I’m Celine
 - 👀 I’m interested in learning new programming languages,music & psychology
 - 🌱 I’m currently learning Python & Java
 - 💞️ I’m looking to collaborate on data analytics/ data science projects
